@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adi170, I have a other acount but idk why i made a other acc lol
-- 👀 I’m interested in: Kids in my basemnt and hacking
+- 👀 I’m interested in: Kids in my basement and hacking
 - 🌱 I’m currently learning: school lol
 - 📫 How to reach me at @_adi1708 at instagram
 
