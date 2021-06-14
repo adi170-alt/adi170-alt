@@ -8,4 +8,4 @@ adi170-alt/adi170-alt is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ----------------
-https://adi170-alt.github.io/adi170-alt/ (this webiste only works on pc)
+https://adi170-alt.github.io/adi170-alt/
