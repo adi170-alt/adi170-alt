@@ -20,5 +20,6 @@
 <p align="left">
 <a href="https://instagram.com/_adi1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_adi1708" height="30" width="40" /></a>
 </p>
-### ㅤ
+###
+ㅤ
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=25&section=header)
