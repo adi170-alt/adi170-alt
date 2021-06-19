@@ -6,7 +6,7 @@
 
 [<img src="novatorem-brown-seven.vercel.app/api/spotify-playing" alt="adi170-alt Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-[![Spotify](https://ovatorem-nonm4y1tf-adi170-alt.vercel.app/)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://ovatorem-nonm4y1tf-adi170-alt.vercel.app/api/spotify.py)](https://open.spotify.com/user/USER_NAME)
 
 
 </details>
