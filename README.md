@@ -16,4 +16,4 @@
 
 [website]: https://adi170-alt.github.io/adi170-alt/
 [instagram]: https://instagram.com/_adi1708
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=50&section=footer)
