@@ -4,8 +4,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="nhttps://novatorem-brown-seven.vercel.app/api/spotify" alt="adi170-alt Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
+[![Spotify](https://novatorem-brown-seven.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
 </details>
