@@ -16,5 +16,9 @@
 
 [website]: https://adi170-alt.github.io/adi170-alt/
 [instagram]: https://instagram.com/_adi1708
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/_adi1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_adi1708" height="30" width="40" /></a>
+</p>
 ### ㅤ
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=25&section=header)
