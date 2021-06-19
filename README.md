@@ -17,6 +17,7 @@
 [website]: https://adi170-alt.github.io/adi170-alt/
 [instagram]: https://instagram.com/_adi1708
 ------------------
+
 #contact info
 <h3 align="left">Connect with me:</h3>
 <p align="left">
