@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 ### Hi there, I'm Adrian - aka [adi1708][website] 👋
 
 ### Discord(adi1708#0069): [![Website](https://img.shields.io/website?label=adi-discord.tk&style=for-the-badge&url=https%3A%2F%2Fadi170-alt.github.io%2Fadi170-alt%2F)](https://adi170-alt.github.io/adi170-alt/)
