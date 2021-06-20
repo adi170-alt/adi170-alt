@@ -7,9 +7,7 @@
 
 [![Spotify](https://novatorem-brown-seven.vercel.app/api/spotify)](https://open.spotify.com/user/adrianlol2017)
 
-<a href="https://github.com/adi170-alt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi170-alt&theme=chartreuse-dark&langs_count=8" />
-</a>
+[![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=adi170-alt&theme=chartreuse-dark&langs_count=8](https://github.com/adi170-alt)
 
 
 </details>
