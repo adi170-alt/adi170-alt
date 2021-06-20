@@ -28,7 +28,6 @@
 
 ------------------
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_adi1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_adi1708" height="30" width="40" /></a>
 <a href="https://bit.ly/3iGecy0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adi1708#0069" height="30" width="40" /></a>
