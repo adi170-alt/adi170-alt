@@ -3,9 +3,6 @@
 
 ### Discord(adi1708#0069): [![Website](https://img.shields.io/website?label=adi-discord.tk&style=for-the-badge&url=https%3A%2F%2Fadi170-alt.github.io%2Fadi170-alt%2F)](https://adi170-alt.github.io/adi170-alt/)
 ------------------
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-brown-seven.vercel.app/api/spotify)](https://open.spotify.com/user/adrianlol2017)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adi170-alt&theme=chartreuse-dark&langs_count=8)](https://github.com/adi170-alt) [![Spotify](https://novatorem-brown-seven.vercel.app/api/spotify)](https://open.spotify.com/user/adrianlol2017)
 
