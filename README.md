@@ -32,6 +32,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 ------------------
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_adi1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_adi1708" height="30" width="40" /></a>
