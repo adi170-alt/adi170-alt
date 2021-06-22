@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=25&section=header)](https://adi170-alt.github.io/adi170-alt/)
+[![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=25&section=header)]([github])
 ### Hi there, I'm Adrian - aka [adi1708][website] 👋
 
 ### Discord(adi1708#0069): [![Website](https://img.shields.io/website?label=adi-discord.tk&style=for-the-badge&url=https%3A%2F%2Fadi170-alt.github.io%2Fadi170-alt%2F)](https://adi170-alt.github.io/adi170-alt/)
@@ -10,6 +10,7 @@
 
 [website]: https://adi170-alt.github.io/adi170-alt/
 [instagram]: https://instagram.com/_adi1708
+[github]: https://github.com/adi170-alt
 
 ------------------
 
@@ -33,4 +34,4 @@
 <a href="https://bit.ly/3iGecy0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adi1708#0069" height="30" width="40" /></a>
 </p>
 
-[![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=25&section=header)](https://adi170-alt.github.io/adi170-alt/)
+[![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=25&section=header)]([github])
