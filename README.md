@@ -1,7 +1,7 @@
 
-<p align="left">
-  <img src="https://discord.c99.nl/widget/theme-4/417214713886277632.png" />
-</p>
+<a href="https://github.com/adi170-alt">
+  <img align="left" src="https://discord.c99.nl/widget/theme-4/417214713886277632.png" />
+</a>
 
 Never accepting friend requests btw :)
 
