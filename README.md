@@ -4,5 +4,5 @@
 </p>
 
 <p align="left">
-  <img src="https://novatorem-brown-seven.vercel.app/api/spotify)](https://open.spotify.com/user/adrianlol2017" />
+  <img src="[![Spotify](https://novatorem-brown-seven.vercel.app/api/spotify)](https://open.spotify.com/user/adrianlol2017)" />
 </p>
