@@ -5,4 +5,6 @@
 
 Never accepting friend requests btw :)
 
+-----------------------------------
+
 [![Spotify](https://novatorem-brown-seven.vercel.app/api/spotify)](https://open.spotify.com/user/adrianlol2017)
