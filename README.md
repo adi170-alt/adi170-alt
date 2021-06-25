@@ -6,9 +6,7 @@
 <a href="https://github.com/adi170-alt">
   <img align="center" src="https://discord.c99.nl/widget/theme-4/417214713886277632.png" /> 
 </a>
-
-## Never accepting friend requests btw :)
-Block if u ask wierd questions.
+## Block if u ask wierd questions on Discord :)
 
 -----------------------------------
 [![Spotify](https://novatorem-brown-seven.vercel.app/api/spotify)](https://open.spotify.com/user/adrianlol2017)
