@@ -14,8 +14,6 @@
 
 
 
-
-| First Header  | Second Header |
 | ------------- | ------------- |
 | <p align="left">
 <a href="https://bit.ly/3h1atsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="candice" height="30" width="40" /></a>
