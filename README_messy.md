@@ -30,8 +30,8 @@
 ------------------
 
 <p align="left">
-<a href="https://instagram.com/_adi1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_adi1708" height="30" width="40" /></a>
-<a href="https://bit.ly/3iGecy0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adi1708#0069" height="30" width="40" /></a>
+<a href="https://instagram.com/no_adi1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_adi1708" height="30" width="40" /></a>
+<a href="no" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="no" height="30" width="40" /></a>
 </p>
 
 [![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=25&section=header)](https://github.com/adi170-alt)
