@@ -10,4 +10,4 @@
 ### Block if u ask wierd questions on discord :)
 
 -----------------------------------
-[<img src="https://novatorem-brown-seven.vercel.app/api/spotify" alt="adrianlol2017's Spotify Playing" width="450" />](https://spoti.fi/3xQh8wk)
+[<img src="https://novatorem-brown-seven.vercel.app/api/spotify" alt="adrianlol2017's Spotify Playing" width="410" />](https://spoti.fi/3xQh8wk)
