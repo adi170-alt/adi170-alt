@@ -11,5 +11,5 @@
 
 Block if u ask wierd questions on discord :)
 
-<a href="https://github.com/adi170-alt" target="blank"><img align="center" src="https://www.codegrepper.com/coding-activity/69321" alt="no" height="30" width="40" /></a>
+<a href="https://github.com/adi170-alt" target="blank"><img align="center" src="experience.png" alt="no" height="30" width="40" /></a>
 </p>
