@@ -10,3 +10,6 @@
 [<img src="https://novatorem-brown-seven.vercel.app/api/spotify" alt="adrianlol2017's Spotify Playing" width="410" />](https://spoti.fi/3xQh8wk)
 
 Block if u ask wierd questions on discord :)
+
+<a href="https://github.com/adi170-alt" target="blank"><img align="center" src="https://www.codegrepper.com/coding-activity/69321" alt="no" height="30" width="40" /></a>
+</p>
