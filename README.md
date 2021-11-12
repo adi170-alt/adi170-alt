@@ -13,5 +13,3 @@
 
 Block if u ask wierd questions on discord :)
 
-<a href="https://github.com/adi170-alt" target="blank"><img align="right" src="experience.png" alt="no" height="500" width="580" /></a>
-</p>
