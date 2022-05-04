@@ -11,5 +11,5 @@
 
 [<img src="https://novatorem-brown-seven.vercel.app/api/spotify" alt="adrianlol2017's Spotify Playing" width="410" />](https://spoti.fi/3xQh8wk)
 
-Block if u ask wierd questions on discord :)
+I am 00110001 00110011, you dont think that u expeted that lmao
 
